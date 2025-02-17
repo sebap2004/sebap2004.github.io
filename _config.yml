@@ -1,4 +1,4 @@
-theme: minima
+remote-theme: jekyll-theme-console
 title: Home Page
 author: Jean-Sebastien Prenovost
 plugins:
