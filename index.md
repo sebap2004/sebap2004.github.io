@@ -9,19 +9,18 @@ permalink: /
 
 Welcome to my site!
 
-# Hi, I’m Jean-Sebastien
 I am an amateur software and game developer, currently at university!
 I’m currently learning:
 
-Java
-C#
-Unity
-Laravel
-PHP
-HTML5
-JavaScript
-ASP.NET
-Blazor
+- Java
+- C#
+- Unity
+- Laravel
+- PHP
+- HTML5
+- JavaScript
+- ASP.NET
+- Blazor
 
 
 ## Socials
