@@ -5,6 +5,7 @@ permalink: /projects
 ---
 
 # Projects I'm Working On 
+Here are some projects that I have worked on or am working on currently.
 
 [**Fistblitz**](https://shebbgames.itch.io/fistblitz)\
 Fistblitz is a platform fighter project that I am currently working on. My main focus, apart from university, is on this project. Be sure to follow the github page for updates!
