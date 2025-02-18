@@ -7,20 +7,29 @@ permalink: /
 
 # Jean-Sebastien Prenovost
 
-Welcome to my site!
+I am an amateur software developer, game developer and 3rd year university student
+I’m currently learning / am familiar with:
 
-I am an amateur software and game developer, currently at university!
-I’m currently learning:
-
+### **Programming Languages**
 - Java
 - C#
-- Unity
-- Laravel
 - PHP
+
+### **Game Development**
+- Unity
+- Blender
+
+### **Web Development**
 - HTML5
 - JavaScript
 - ASP.NET
 - Blazor
+- Laravel
+
+### **Video & Design**
+- Photoshop
+- Illustrator
+- Premiere Pro
 
 
 ## Socials
@@ -28,4 +37,4 @@ I’m currently learning:
 Discord - shebb
 Bluesky - sebaprenovost.com
 
-Contact me if you have any questions!
+Feel free to contact me!
