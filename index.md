@@ -35,6 +35,7 @@ I’m currently learning / am familiar with:
 ## Socials
 
 Discord - shebb
-Bluesky - sebaprenovost.com
+Bluesky - [@sebaprenovost.com](https://bsky.app/profile/sebaprenovost.com)
+Github - [sebap2004](https://github.com/sebap2004)
 
 Feel free to contact me!

@@ -7,4 +7,5 @@ title: Home Page
 author: Jean-Sebastien Prenovost
 plugins:
   - jekyll-remote-theme
-description: Welcome to my github page :)
+description: Portfolio
+footer: 'Jean-Sebastien Prenovost - 2025'
