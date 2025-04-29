@@ -15,3 +15,6 @@ For my final year software project, I am making an AI chatbot frontend as part o
 
 [**Final Year Dissertation Project**](https://project.sebaprenovost.com/)\
 For my final year dissertation project, I am making a piece of software that facilitates easy communication between students and teachers, hopefully bridging the gap of awkwardness and allowing people to feel more comfortable asking for help and engaging in class
+
+[**Final Year Dissertation Project Documentation**](https://sebaprenovost.com/ComputingProject/)\
+Documentation of the final year dissertation project
